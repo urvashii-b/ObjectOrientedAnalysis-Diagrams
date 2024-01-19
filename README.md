@@ -1,9 +1,13 @@
-# PES University App - Use Case Diagram, Class Diagram
+# PES University App - Use Case Diagram, Hospital Management System - Class Diagram
 
 ![Use Case Diagram](useCaseDiagram.png)
+
 ![Class Diagram](classDiagram.png)
 
-This repository contains the Use Case Diagram for the PES University App, developed using object-oriented analysis and design principles with Java.
+This repository contains:
+   1) The Use Case Diagram for the PES University App,
+   2) The Class Diagram for Hospital Management System
+developed using object-oriented analysis and design principles with Java.
 
 ## Overview
 
