@@ -19,6 +19,8 @@ The Use Case Diagram provides a high-level view of the functionalities and inter
    ```bash
    git clone https://github.com/urvashii-b/PESU-UseCaseDiagram.git
 
+2. Open StarUML and use the code
+
 ## Explore the Diagram:
 
 Analyze the Use Case Diagram to understand the functionality and interactions of the PES University App.
