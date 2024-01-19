@@ -1,6 +1,7 @@
-# PES University App - Use Case Diagram
+# PES University App - Use Case Diagram, Class Diagram
 
 ![Use Case Diagram](useCaseDiagram.png)
+![Class Diagram](classDiagram.png)
 
 This repository contains the Use Case Diagram for the PES University App, developed using object-oriented analysis and design principles with Java.
 
